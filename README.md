@@ -13,7 +13,7 @@
 ### 🚀 About Me
 
 - 🎓 Computer Science student
-- 🐍 Solid, all-around experience with **Python**
+- 🐍 Comfortable with Python to make mini projects 
 - 🌱 Currently learning **C** and **C++**
 - 📚 Gearing up to dive deep into **Data Structures & Algorithms**
 - 🔧 Comfortable with **Git** and **GitHub** for version control and collaboration
