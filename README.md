@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm zelit 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=550&lines=Computer+Science+Student;Python+Developer;Learning+C+%26+C%2B%2B;Gearing+up+for+DSA" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=550&lines=Computer+Science+Student;Learning+C+%26+C%2B%2B;Gearing+up+for+DSA" alt="Typing SVG" />
 </p>
 
 <p align="center">
