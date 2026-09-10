@@ -33,7 +33,7 @@
 
 <p align="center">
   <a href="https://leetcode.com/zzelitt"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-</a> <img src="https://discord.com/users/703085548100780105" /> 
+</a> <a href="https://discord.com/users/703085548100780105"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /> 
 </p>
 
 ---
